@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 body {
@@ -10,9 +8,7 @@ body {
 
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 header h1 {
@@ -71,7 +67,7 @@ a {
     margin-left: 20px;
 }
 
-section {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
