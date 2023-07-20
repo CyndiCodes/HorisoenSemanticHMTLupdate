@@ -1,4 +1,4 @@
-# SemanticHMTLupdate
+# HorisoenSemanticHMTLupdate
 
 ## Description: Updated Html div soup to Semantic HTML elements to optimtize site for search engines. This includs header, main (with sections), aside (with sections), and footer and updated css to reply.
 Also updated heading to fall in sequential order (h1-h4) in html and updated h4 in css footer to reply.
