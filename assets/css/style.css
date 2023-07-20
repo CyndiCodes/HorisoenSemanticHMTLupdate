@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* removed p selector set at 16px to optimize css as that is the default setting */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -82,7 +84,7 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
