@@ -14,7 +14,7 @@ https://developer.mozilla.org/en-US/
 
 
 ## link
-https://cyndicodes.github.io/semanticalHMTL/
+[https://cyndicodes.github.io/semanticalHMTL/](https://cyndihue.github.io/semanticalHMTL/)
 
 ## screenshot
 ![image](https://github.com/CyndiCodes/SemanticHMTLupdate/assets/135991739/37332282-a3a2-462d-84a8-2697a594f129)
