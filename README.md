@@ -1,4 +1,4 @@
-# SemanticHMTl
+# semanticalHMTl
 
 ## Description: 
 Updated Html div soup to Semantic HTML elements to optimtize site for search engines. This includs header, main (with sections), aside (with sections), and footer and updated css to reply.
@@ -14,7 +14,7 @@ https://developer.mozilla.org/en-US/
 
 
 ## link
-https://cyndicodes.github.io/SemanticHMTL/
+https://cyndicodes.github.io/semanticalHMTL/
 
 ## screenshot
 ![image](https://github.com/CyndiCodes/SemanticHMTLupdate/assets/135991739/37332282-a3a2-462d-84a8-2697a594f129)
